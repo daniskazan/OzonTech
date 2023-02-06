@@ -53,10 +53,4 @@ if __name__ == '__main__':
             print(*partition_string(t.sequence))
         else:
             print("-")
-# if is_valid_partition(s):
-#     print("String can be divided by spaces into a sequence of correct car numbers:")
-#     print(partition_string(s))
-# else:
-#     print("String cannot be divided by spaces into a sequence of correct car numbers")
-
 
